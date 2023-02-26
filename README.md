@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amirsabahi
-- 👀 I’m interested in Web Development using PHP and Python. I think AI will empower our lives.
+- 👀 I’m interested in Web Development using PHP, Python and C#. I think AI will empower our lives.
 - 🌱 I’m currently learning about Machine learning and Front-end technologies.
 
 - 📫 Checkout my website: amirsabahi.ir
