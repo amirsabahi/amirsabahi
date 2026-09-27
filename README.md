@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amirsabahi
-- 👀 I’m interested in Web Development using Python, Go, and C#. I think AI will empower our lives.
+- 👀 I’m interested in Software Engineering and development using Python, Go, and C#. I think AI will empower our lives.
 - 🌱 I work as a senior software engineer on AI projects.
 
 <!---
