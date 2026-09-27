@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @amirsabahi
-- 👀 I’m interested in Web Development using PHP, Python, and C#. I think AI will empower our lives.
-- 🌱 I’m currently learning about C#/.Net and Front-end technologies.
-
-- 📫 Checkout my website: amirsabahi.ir
+- 👀 I’m interested in Web Development using Python, Go, and C#. I think AI will empower our lives.
+- 🌱 I work as a senior software engineer on AI projects.
 
 <!---
 amirsabahi/amirsabahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
